@@ -1,0 +1,8 @@
+{
+  "name": "PintoSolutions",
+  "app_id": "71888ad3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
